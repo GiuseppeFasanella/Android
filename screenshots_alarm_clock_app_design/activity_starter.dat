@@ -1,0 +1,7 @@
+Se non scrivi:
+android.intent.action.GET_CONTENT
+e 
+come data type:
+video/*
+
+Non Funziona!
